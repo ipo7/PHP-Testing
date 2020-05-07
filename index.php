@@ -1,3 +1,1 @@
-<?php
-print_r('Hello!');
- ?>
+<?php echo 'Привет!' ?>
